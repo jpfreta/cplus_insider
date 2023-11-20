@@ -6,4 +6,7 @@ using namespace std;
 int main ()
 {
     cout << "\n\n\tHello, World!\n\n\n";
+    
+    
+    return 0;
 }
